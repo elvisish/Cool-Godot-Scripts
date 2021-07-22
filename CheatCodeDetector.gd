@@ -1,3 +1,6 @@
+/*
+    Cheat Code Detector by Poobslag.
+*/
 class_name CheatCodeDetector
 extends Node
 """
